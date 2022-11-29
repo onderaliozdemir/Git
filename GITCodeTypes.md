@@ -11,3 +11,5 @@ git push
 
 
 git diff
+
+sadece maine cıkılacak bu.
