@@ -8,3 +8,6 @@ git add
 git status
 
 git push
+
+
+git diff
